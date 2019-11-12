@@ -7,6 +7,7 @@
 #
 # Requirements:
 # * aws-cli
+# * amazon-ecr-credential-helper
 #
 # Usage:
 #  $ ./jib-aws-deploy needToLogin serviceANR clusterANR checkPeriod [buildParams]
