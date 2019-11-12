@@ -1,8 +1,8 @@
 #!/bin/sh
 
-#================#
-# Jib and deploy #
-#================#
+####################
+## Jib and deploy ##
+####################
 # Tool for building Docker container with Gradle and jib, and deploying to AWS ECS
 #
 # Requirements:

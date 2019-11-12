@@ -1,8 +1,8 @@
 #!/bin/sh
 
-#=============#
-# Materialize #
-#=============#
+##################
+## Materialize ##
+#################
 # Tool for decoding base64 string from param into a file
 #
 # Usage:
